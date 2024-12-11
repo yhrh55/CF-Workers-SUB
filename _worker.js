@@ -14,6 +14,8 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
 https://sub.xf.free.hr/auto
+https://cf-workers-text2kv-7ra.pages.dev/ip.csv?token=jqs21&t=1733912576795
+https://cf-workers-text2kv-7ra.pages.dev/ip.txt.txt?token=jqs21&t=1733913088154
 `
 
 let urls = [];
