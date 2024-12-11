@@ -20,7 +20,7 @@ https://cf-workers-text2kv-7ra.pages.dev/ip.txt.txt?token=jqs21&t=1733913088154
 
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/cmliu/ACLhttps://cf-workers-text2kv-7ra.pages.dev/ip.txt.txt?token=jqs21&t=17339130881544SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/cmliu/ACLhttps://cf-workers-text2kv-7ra.pages.dev/ip.csv?token=jqs21&t=1733912576795/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
